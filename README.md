@@ -11,7 +11,7 @@ Pre-requisites
 
 ## Demo
 
-![How it Looks]([https://github.com/hemu33662/hackmantra/blob/main/Hackmantra.mp4])
+![How it Looks]([(https://github.com/hemu33662/classs_routine/blob/main/CLass_demo.png?raw=true)])
 
 
 ## Features
