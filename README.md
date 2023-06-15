@@ -11,23 +11,23 @@ Pre-requisites
 
 ## Demo
 
-![FoodandMedicine]([https://github.com/hemu33662/hackmantra/blob/main/Hackmantra.mp4])
+![How it Looks]([https://github.com/hemu33662/hackmantra/blob/main/Hackmantra.mp4])
 
 
 ## Features
 
-- User Registration.
-- Asking Requirements.
-- Getting Location.
-- Sending Drone and Tracking them.
+- Google Meet.
+- Google class room.
+- Gmail.
+- Class Routinr.
 
 
 
 ## To Do
 
-- Sending drones.
-- Tracking drones.
-- Implementing "Choose Language" option.
+- Redirected to Respected class meet.
+- Redirected to Google class.
+- Gmail .
 
 ## Authors
 
