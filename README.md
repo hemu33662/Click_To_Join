@@ -20,7 +20,7 @@ Pre-requisites
 - Google Meet.
 - Google class room.
 - Gmail.
-- Class Routinr.
+- Class Routine.
 
 
 
