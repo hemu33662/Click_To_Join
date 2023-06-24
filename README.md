@@ -1,4 +1,4 @@
-Online Class Routine 
+Click-to-Join: Effortless Access to Google Meet Classes
 ===================================
 The web page simplifies the process for students to join Google Meet classes. It displays a list of classes with clickable class names. When a student clicks on a class name, the web page automatically joins the corresponding Google Meet session for that class. This saves time and eliminates the need for students to manually enter the Google Meet URL for each class. The web page provides a user-friendly experience and streamlines access to online classes.
 
