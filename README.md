@@ -19,7 +19,7 @@ Pre-requisites
 
 5. Google Meet Integration: The web page would utilize the Google Meet link to join the specified Google Meet session associated with the class. This integration may require authentication with the student's Google account and appropriate permissions.
 
-6. Joining the Class: After the web page initiates the action to join the Google Meet session, it would redirect the student to the Google Meet platform, where they can join the class and participate in the meeting.
+6. Joining the Class: After the web page initiates the action to join the Google Meet session, it will redirect the student to the Google Meet platform, where they can join the class and participate in the meeting.
 
 ## Benefits and Convenience:
 - Simplified Access: By providing clickable class names, the web page eliminates the need for students to manually search or type in the Google Meet URL for each class. It streamlines the process and reduces the chance of errors or confusion.
@@ -44,9 +44,9 @@ Overall, the web page you described aims to streamline the process of joining Go
 
 ## To Do
 
-- Redirected to Respected class meet.
-- Redirected to Google class.
-- Gmail .
+- Send a notification to join class. 
+- Pop-UP ,when then clicking other class link.
+- White board to write important notes.
 
 ## Authors
 
