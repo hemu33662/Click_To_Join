@@ -31,6 +31,10 @@ Overall, the web page you described aims to streamline the process of joining Go
 
 ![How it Looks](CLass_demo.png)
 
+## Live Demo
+[Demo](https://classroutine.netlify.app/)
+
+
 
 
 ## Features
