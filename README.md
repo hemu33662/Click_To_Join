@@ -1,7 +1,6 @@
 Online Class Routine 
 ===================================
-Certainly! If you have a web page designed to facilitate students joining Google Meet classes with
-A simple click on the class name can be a user-friendly and convenient way to streamline the process.
+The web page simplifies the process for students to join Google Meet classes. It displays a list of classes with clickable class names. When a student clicks on a class name, the web page automatically joins the corresponding Google Meet session for that class. This saves time and eliminates the need for students to manually enter the Google Meet URL for each class. The web page provides a user-friendly experience and streamlines access to online classes.
 
 
 Pre-requisites
@@ -22,7 +21,7 @@ Pre-requisites
 
 6. Joining the Class: After the web page initiates the action to join the Google Meet session, it would redirect the student to the Google Meet platform, where they can join the class and participate in the meeting.
 
-Benefits and Convenience:
+## Benefits and Convenience:
 - Simplified Access: By providing clickable class names, the web page eliminates the need for students to manually search or type in the Google Meet URL for each class. It streamlines the process and reduces the chance of errors or confusion.
 - Time Efficiency: Students can quickly navigate to the web page, find their desired class, and join the Google Meet session with just a few clicks, saving time and minimizing disruptions.
 - User-Friendly Experience: The web page's intuitive interface and clickable class names enhance the user experience, making it more convenient for students to access their online classes.
